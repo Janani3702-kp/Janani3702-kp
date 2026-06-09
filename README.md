@@ -154,7 +154,7 @@ AI-driven recommendation system for customer engagement and behavior analysis.
 
 ### 🥗 AI Nutritionist
 
-<img src="YOUR_SCREENSHOT_URL" width="100%">
+<img src="[YOUR_SCREENSHOT_URL](https://cordis.europa.eu/article/id/443201-ai-based-personalised-nutrition)" width="100%">
 
 AI-powered nutrition recommendation system.
 
@@ -164,7 +164,7 @@ AI-powered nutrition recommendation system.
 
 ### 🤖 Consumer Experience AI
 
-<img src="YOUR_SCREENSHOT_URL" width="100%">
+<img src="[YOUR_SCREENSHOT_URL](https://www.cmswire.com/customer-experience/ais-role-in-shaping-the-future-of-customer-experience/)" width="100%">
 
 Customer behavior intelligence platform.
 
@@ -174,7 +174,7 @@ Customer behavior intelligence platform.
 
 ### 🛍 FashionHub
 
-<img src="YOUR_SCREENSHOT_URL" width="100%">
+<img src="https://www.cameramoda.it/en/associazione/news/1677/)" width="100%">
 
 Modern fashion e-commerce platform.
 
@@ -187,33 +187,3 @@ Modern fashion e-commerce platform.
 
 <td width="33%">
 
-### 🥗 AI Nutritionist
-
-<img src="YOUR_SCREENSHOT_URL" width="100%">
-
-AI-powered nutrition recommendation system.
-
-</td>
-
-<td width="33%">
-
-### 🤖 Consumer Experience AI
-
-<img src="YOUR_SCREENSHOT_URL" width="100%">
-
-Customer behavior intelligence platform.
-
-</td>
-
-<td width="33%">
-
-### 🛍 FashionHub
-
-<img src="YOUR_SCREENSHOT_URL" width="100%">
-
-Modern fashion e-commerce platform.
-
-</td>
-
-</tr>
-</table>
