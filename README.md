@@ -15,9 +15,7 @@ AI Enthusiast • Full Stack Developer • Problem Solver
 </h3>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Janani+K;AI+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+AI+Powered+Solutions" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Janani K</h1>
 
 <h3 align="center">
