@@ -1,7 +1,27 @@
 <p align="center">
-  <img src="./ChatGPT Image Jun 9, 2026, 11_44_53 AM.png" width="100%" alt="Janani K Banner">
+  <img src="./ChatGPT Image Jun 9, 2026, 11_44_53 AM.png" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janani3702-kp&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Janani+K;AI+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+AI+Powered+Solutions"/>
+</p>
+
+<h3 align="center">
+AI Enthusiast • Full Stack Developer • Problem Solver
+</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janani3702-kp&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="./ChatGPT Image Jun 9, 2026, 11_44_53 AM.png" width="100%" alt="Janani K Banner">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Janani+K;AI+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+AI+Powered+Solutions" />
+</p>
 <h1 align="center">Hi 👋, I'm Janani K</h1>
 
 <h3 align="center">
@@ -129,3 +149,78 @@ AI-driven recommendation system for customer engagement and behavior analysis.
 ⭐ If you like my work, consider starring my repositories!
 
 </div>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/janani3702-kp/janani3702-kp/output/github-contribution-grid-snake.svg" />
+</p>
+<table>
+<tr>
+
+<td width="33%">
+
+### 🥗 AI Nutritionist
+
+<img src="YOUR_SCREENSHOT_URL" width="100%">
+
+AI-powered nutrition recommendation system.
+
+</td>
+
+<td width="33%">
+
+### 🤖 Consumer Experience AI
+
+<img src="YOUR_SCREENSHOT_URL" width="100%">
+
+Customer behavior intelligence platform.
+
+</td>
+
+<td width="33%">
+
+### 🛍 FashionHub
+
+<img src="YOUR_SCREENSHOT_URL" width="100%">
+
+Modern fashion e-commerce platform.
+
+</td>
+
+</tr>
+</table>
+<table>
+<tr>
+
+<td width="33%">
+
+### 🥗 AI Nutritionist
+
+<img src="YOUR_SCREENSHOT_URL" width="100%">
+
+AI-powered nutrition recommendation system.
+
+</td>
+
+<td width="33%">
+
+### 🤖 Consumer Experience AI
+
+<img src="YOUR_SCREENSHOT_URL" width="100%">
+
+Customer behavior intelligence platform.
+
+</td>
+
+<td width="33%">
+
+### 🛍 FashionHub
+
+<img src="YOUR_SCREENSHOT_URL" width="100%">
+
+Modern fashion e-commerce platform.
+
+</td>
+
+</tr>
+</table>
