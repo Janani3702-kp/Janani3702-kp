@@ -128,11 +128,10 @@ AI-driven recommendation system for customer engagement and behavior analysis.
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@gmail.com
+📧 Email: kit28.24bad064@gmail.com
 
-💼 LinkedIn: your-linkedin-profile
+💼 LinkedIn: https://www.linkedin.com/in/janani-k-261457390/
 
-🌐 Portfolio: Coming Soon
 
 ---
 
